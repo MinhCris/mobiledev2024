@@ -60,4 +60,3 @@ public class WeatherActivity extends AppCompatActivity {
         // The activity is about to be destroyed
     }
 }
-}
